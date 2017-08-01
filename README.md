@@ -1,2 +1,4 @@
 # hello-world
-my first hello world program on github
+My first "hello world" program on github!
+
+Cockatiels are Australia's pigeons. 
